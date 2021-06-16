@@ -1,3 +1,9 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/adb5027e-2345-4bf1-bc97-2619b79df299/deploy-status)](https://app.netlify.com/sites/pensive-tereshkova-93f20a/deploys)
+
+[![Deploy to
+Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/DVN-Anakin/ph2php-gatsby)
+
+
 Converting .ph to .php
 
 # Endpoint 
